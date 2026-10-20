@@ -1,0 +1,13 @@
+Package: finbasic
+Type: Package
+Title: Basic Financial Functions
+Version: 0.1.0
+Authors@R: person("Mohamed", "Miled", role = c("aut", "cre"), email = "mohamed.miled1982@gmail.com")
+Description: Basic financial functions: monthly payment of a fixed-rate loan
+    and net present value of cash flows.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Suggests: testthat (>= 3.0.0)
+Config/testthat/edition: 3
